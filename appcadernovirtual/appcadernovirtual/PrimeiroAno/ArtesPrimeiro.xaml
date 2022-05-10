@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.PrimeiroAno.ArtesPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+           
+            <Label Text="ARTES"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+            <Label Text="O artigo tem o objetivo de mostrar que o ensino de Arte está alicerçado em dois pilares: a formação estética e o desenvolvimento cultural, importantíssimos no ensino médio para a construção de conhecimentos através da diversificação de linguagens e meio de expressão e comunicação."
+                VerticalOptions="Start"
+                HorizontalOptions="Fill"/>
+
+            <Label Text="De modo geral, as artes referem-se ao desenvolvimento de símbolos e simbolismos, sendo praticadas pelo ser humano desde a pré-história. Podemos incluir nesse grupo a arquitetura, a literatura, a música, a dança, o cinema e o teatro, por exemplo. Mas, é claro, não podemos deixar de fora as artes plásticas (escultura, desenho e pintura).
+
+A arte e a história estão intimamente ligadas. Ao longo de sua existência, o ser humano procurou se expressar através de linguagens artísticas, sejam elas visuais ou não.
+
+Se antes a arte era muito valorizada, hoje em dia tem sido, infelizmente, deixada de lado pela população, em especial no Brasil. Mas o que muitos não compreendem é que a arte, em si, não está presente apenas nas pinturas e estátuas de museus. As inúmeras formas de se fazer arte estão espalhadas no cotidiano da população, sendo expressada nas mais diversas linguagens."
+                   VerticalOptions="Start"
+                    HorizontalOptions="Fill"/>
+            
+            <Label Text="Música: arte que se baseia no ritmo e nos sons emitidos em um determinado período de tempo;
+Dança: dentro das artes cênicas, é uma forma de movimento realizado com o corpo;
+Pintura: uso das cores e suas variações nas mais diversas formas de expressão em uma superfície;
+Escultura: criação de imagens plásticas em três dimensões, independentemente do tipo de material utilizado;
+Teatro: encenação de uma história ou situação por atores;
+Literatura: expressão artística que conta histórias por meio de palavras;
+Cinema: arte criada para reproduzir histórias em imagens com movimento em tela;
+Fotografia: imagens e técnicas para a captura de paisagens, momentos, retratos, etc.;
+Quadrinhos: arte de utilização de cor, palavra e imagem para se contar uma história;
+Jogos: criação de jogos reproduzidos eletronicamente que permitem a interação do usuário;
+Arte digital: artes gráficas produzidas por meio de softwares de computador.
+"        
+                   VerticalOptions="Start"
+                   HorizontalOptions="Fill"/>
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

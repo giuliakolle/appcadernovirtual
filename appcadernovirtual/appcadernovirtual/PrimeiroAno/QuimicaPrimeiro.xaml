@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.PrimeiroAno.QuimicaPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Química"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+            <Label Text=" Um fenômeno químico é aquele que altera a natureza da matéria, assim, toda a queima é sempre de natureza química. Já num fenômeno físico não há modificação da natureza da matéria, sendo que toda a mudança de fase é sempre de natureza física.
+
+- Alotropia é a parte da química que estuda a capacidade de duas ou mais substâncias puras simples serem formadas por um mesmo elemento químico. Os quatro elementos da tabela periódica que apresentam essa propriedades são: o carbono, o oxigênio, o enxofre e o fósforo.
+
+- O elemento carbono forma predominantemente  as variedades alotrópicas grafite e diamante, o elemento oxigênio os gases oxigênio e ozônio, o enxofre as variedades rômbica e monoclínica, o fósforo as espécies branco e vermelho."/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

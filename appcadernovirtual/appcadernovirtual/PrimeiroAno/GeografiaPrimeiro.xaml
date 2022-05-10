@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.PrimeiroAno.GeografiaPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Geografia"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+            <Label Text="A Geografia como ciência do espaço. ...
+A Estrutura geológica e a evolução do relevo relacionadas com a ocupação do Espaço. ...
+A dinâmica atmosférica e relações sócio-ambientais. ...
+Os recursos hídricos e suas relações com a dinâmica da natureza e o desenvolvimento das sociedades."/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.PrimeiroAno.HistoriaSegundo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="HISTÓRIA"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+            
+            <Label Text="Pré-História: Construindo a História, O que é História? Conceito de História, História e a experiência, os Sujeitos Históricos, as durações do tempo histórico, a linha do tempo, as Fontes históricas, a História e as Ciências Humanas.A Origem do Ser Humano: A evolução do Ser Humano, Período Paleolítico (a produção de ferramentas, o domínio do fogo, da África para os outros continentes, caça e coleta, especialização e divisão do trabalho, arte no Paleolítico, pensamento simbólico e linguagem) e o Período Neolítico (Cotidiano no Neolítico e o desenvolvimento de organizações sociais)
+                      O Oriente Médio na Antiguidade:
+              A civilização Mesopotâmica: a sociedade, as atividades econômicas, as práticas religiosas, a escrita cuneiforme.
+         Os Fenícios: cidades Fenícias, as trocas culturais e o alfabeto fenício.
+    
+Os Persas: A formação do Império Persa, a rede de estradas e correios Persa e o declínio do Império.
+    
+Os Hebreus: os Hebreus no Egito, o Êxodo, o Reino de Israel, o Estado hebraico dividido, as dominações estrangeiras (macedônica e romana), resistência e dispersão do povo Hebreu.
+    
+Povos antigos da África: Os antigos egípcios; a sociedade egípcia; a religião dos egípcios (mumificação dos corpos), as pirâmides, a vida ao redor do Rio Nilo, o Império Cuxe e o Reino de Axum.
+ 
+Povos antigos da Ásia: As civilizações da Ásia, a civilização Hindu (sistemas de castas), o Budismo, a China Antiga, o Império Han, a Rota da Seda e o fim do Império Han.
+  
+Grécia Antiga: O mundo Helênico, Esparta (militarismo), Atenas (democracia), Filosofia e Ciência na Grécia Antiga, os Jogos Olímpicos, a Guerra do Peloponeso, o Império Macedônico.
+
+Os Romanos: A Península Itálica, o Período Monárquico, a República em Roma, as Guerras de Conquista, o Alto Império, a Cidade de Roma, a Crise do Império Romano, a sociedade romana e sua cultura.
+
+O Islã: o Nascimento do Islã, a Expansão Muçulmana, os Muçulmanos na Península Ibérica, a Cultura Islâmica.
+
+Idade Média: os Povos Germânicos, os Reinos Germânicos (o Reino Franco, o Império Carolíngio e a crise do Império Carolíngio), a Sociedade Feudal (os oratores, bellatores, os laboratores e o feudo), o Sacro Império Romano Germânico, a Igreja Católica, as Cruzadas, as cidades da Europa medieval, as primeiras Universidades, a Reconquista da Península Ibérica, a Peste Negra.
+
+O Renascimento Italiano: contexto histórico, divergências com a Igreja Católica, o Renascimento, a Arte Renascentista, as cidades italianas.
+
+Reforma Protestante: Luteranismo, Calvinismo e Anglicanismo.
+
+Os povos da América: as Sociedades Meso-americanas (os Maias, os Astecas, os Incas), os povos indígenas do Brasil."/>
+          
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

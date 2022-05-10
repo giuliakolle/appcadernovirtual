@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.PrimeiroAno.SociologiaPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Sociologia"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+            <Label Text=" Compreendam a origem da sociologia, desde quando ela é estudada e quais foram os primeiros sociólogos;  Conheçam os principais sociólogos e compreendam suas idéias.  Identifiquem-se como seres eminentemente sociais;  Entendam que os conceitos formulados pelo pensamento sociológico contribuem para a capacidade de análise e crítica da realidade social que os cerca;  Compreendam que as múltiplas formas de se analisar a mesma questão ou fato social refletem a diversidade de interesses existentes na sociedade;  Compreendam o papel histórico das instituições sociais, associando as práticas dos diferentes grupos sociais aos princípios que regulam a convivência em sociedade;  Compreendam a organização e a influência das instituições e grupos sociais em seu processo de socialização e as contradições deste processo;  Reflitam sobre as suas ações individuais e percebam que as ações em sociedade são interdependentes. "/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

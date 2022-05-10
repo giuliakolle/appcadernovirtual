@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.PrimeiroAno.BiologiaPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Biologia"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+            <Label Text="Estrutura Celular Eucarionte 
+02 - Divisão Celular: Mitose e Meiose. ...
+03 - Ligações Químicas. ...
+ 04- Origem da Vida na Terra. ...
+05 - Origem da Vida na Terra. ...
+06 - Características da Vida: Características Gerais dos Seres Vivos e Níveis de Organização."/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.PrimeiroAno.portuguesPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="português"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+            <Label Text="1. Compreensão de textos diversos: • Textos verbais e não-verbais; • Percepção do uso adequado da língua em situações diversas; • Gêneros textuais: notícia, reportagem, artigo de opinião, editorial, conto e crônica; • Textos narrativos e argumentativos; • Tipo de leitor e finalidade do texto; • Texto x Contexto; • Linguagem formal e informal. 2. Produção de texto: • Tipos textuais: narração e argumentação; • Produção de textos narrativos; • Produção de textos dissertativos, com argumentação, contra-argumentação, objetividade, persuasão, coerência e coesão; • Paragrafação. 3. Conhecimentos linguísticos: • Análise sintática dos períodos simples: sujeito, predicado, transitividade verbal, complementos verbais, verbo de ligação, predicativo do sujeito, vozes do verbo, agente da passiva, adjunto adnominal, complemento nominal, adjunto adverbial, aposto e vocativo; • Domínio da relação dos termos na estrutura frasal; • Frase, oração e período; • Período simples; • Período composto por coordenação e por subordinação; • Orações reduzidas; • Funções sintáticas do pronome relativo; • Pontuação; • Ortografia: emprego do verbo TER, do verbo VIR, do C, Ç, SS, E, I, O e U; • Figuras de linguagem;  • Figuras de sintaxe; • Regência verbal (casos principais); • Regência Nominal (casos principais); • Crase; • Concordância verbal e nominal (casos principais); • Colocação pronominal. "/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.DiciplinasTerceiro">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Button Text="Inglês" Clicked="Button_Clicked"/>
+            <Button Text="Biologia" Clicked="Button_Clicked_1"/>
+            <Button Text="Física" Clicked="Button_Clicked_2"/>
+            <Button Text="Geografia" Clicked="Button_Clicked_3"/>
+            <Button Text="História" Clicked="Button_Clicked_4"/>
+            <Button Text="Matemática" Clicked="Button_Clicked_5"/>
+            <Button Text="Português" Clicked="Button_Clicked_6"/>
+            <Button Text="Química" Clicked="Button_Clicked_7"/>
+            <Button Text="Sociologia" Clicked="Button_Clicked_8"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

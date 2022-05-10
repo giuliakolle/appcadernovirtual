@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.PrimeiroAno.MatematicaPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Matemática"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+            <Label Text="1. Potências e radicais: • Simplificação; • Operações; • Razão e Proporção. 2. Equações do 2º grau: • Resolução; • Problemas do 2º grau; • Número de raízes reais; • Relação de soma e produto de raízes; • Sistemas do 2º grau com duas variáveis. 3. Teorema de Talles, Pitágoras e aplicações notáveis. 4. Comprimento da circunferência e do arco. 5. Área e perímetro de polígonos (quadrado, retângulo, paralelogramo, triângulo e círculo)."/>
+            
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

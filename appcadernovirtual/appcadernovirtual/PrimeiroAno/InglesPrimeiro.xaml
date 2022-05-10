@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appcadernovirtual.PrimeiroAno.InglesPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Inglês"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+            <Label Text="WRITING AND LISTENING RELATIONS. Linking words.
+Imperativo e modal verbs: uso em avisos. ...
+LISTENING. ...
+ORAL PRODUCTION. ...
+READING. ...
+Sequenciadores: first, second, next, after th; at, finally, at the end. ...
+LISTENING. ...
+ORAL PRODUCTION."/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
